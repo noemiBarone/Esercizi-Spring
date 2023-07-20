@@ -1,4 +1,4 @@
-package controllers;
+package com.example.Esercizi.Spring.controllers;
 
 import jakarta.servlet.http.PushBuilder;
 import org.springframework.http.HttpStatusCode;
